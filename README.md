@@ -16,7 +16,7 @@ This is a command-line program written in C to search for a byte sequence in fil
 ### Running
 Use the following command to run the program:
 
-```./hex_finder [directory] [target]```
+```./lab11nhtN32461 [directory] [target]```
 
 Where:
 - `[directory]` is the path to the directory from which the search begins.
